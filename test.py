@@ -1,1 +1,1 @@
-print("i am hungry")
+are u hungry?
